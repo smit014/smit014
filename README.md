@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/smit malaviya](https://www.linkedin.com/in/smit-malaviya-45987628a/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smit malaviya" height="30" width="40" /></a>
-<a href="[https://www.hackerrank.com/smit malaviya](https://www.hackerrank.com/profile/sjmalaviya41)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="smit malaviya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/smit-malaviya-45987628a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/smit-malaviya-45987628a/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/sjmalaviya41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/sjmalaviya41" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,4 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smit014&show_icons=true&locale=en" alt="smit014" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smit014&" alt="smit014" /></p>
-
